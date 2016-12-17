@@ -145,8 +145,8 @@ h1 {
     color: #f8d902;
     background: black; }
   .cta:hover ~ h1 span {
-    color: black;
-    background: #f8d902; }
+    color: #f8d902;
+    background:black;  }
 
 @media (max-width: 740px) {
   main {
